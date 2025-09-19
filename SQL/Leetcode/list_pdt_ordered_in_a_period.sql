@@ -1,0 +1,18 @@
+# Write your MySQL query statement below
+WITH ProductOrder AS (
+    SELECT
+        P.PRODUCT_ID,
+        P.PRODUCT_NAME,
+        O.ORDER_DATE,
+        O.UNIT
+    FROM PRODUCTS AS P
+    JOIN ORDERS AS O
+    ON P.PRODUCT_ID = O.PRODUCT_ID
+    WHERE O.ORDER_DATE REGEXP('^2020-02-[0-9]{2}$')
+)
+SELECT
+    PRODUCT_NAME,
+    SUM(UNIT) AS UNIT
+FROM ProductOrder
+GROUP BY PRODUCT_ID
+HAVING UNIT >= 100

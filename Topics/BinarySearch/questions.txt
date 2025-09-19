@@ -2,3 +2,4 @@
 2. Find in Mountain Array: https://leetcode.com/problems/find-in-mountain-array
 3. Frequency of most frequent element: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 4. Min no  of days to make bouquetes: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets
+5. minimize-the-maximum-difference-of-pairs: https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/
