@@ -3,3 +3,4 @@
 2. Validate binary tree nodes: https://leetcode.com/problems/validate-binary-tree-nodes/description
 3. BFS (Diagonal traverse): https://leetcode.com/problems/diagonal-traverse-ii
 4. Minimum height tree: https://leetcode.com/problems/minimum-height-trees
+5. 3D Dijkstras - https://leetcode.com/problems/minimum-cost-path-with-teleportations

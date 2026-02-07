@@ -2,3 +2,4 @@
 2. Least no of unique int after k removals : https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
 3. Furthest building you can reach : https://leetcode.com/problems/furthest-building-you-can-reach  
 4. https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/1624252744/?envType=daily-question&envId=2025-05-03
+**** 5. Maximum Number of Distinct Elements After Operations - https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/description/?envType=daily-question&envId=2025-10-18

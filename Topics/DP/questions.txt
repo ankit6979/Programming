@@ -14,3 +14,4 @@
 14. 3D DP - Cherry PickupII: https://leetcode.com/problems/cherry-pickup-ii
 15. flight with k stops(DP with iteration inside): https://leetcode.com/problems/cheapest-flights-within-k-stops
 16, student attendance record2 : https://leetcode.com/problems/student-attendance-record-ii/
+17. https://leetcode.com/problems/maximum-total-damage-with-spell-casting/?envType=daily-question&envId=2025-10-11 -- Good question
