@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VisitorMain",
+            "request": "launch",
+            "mainClass": "VisitorMain",
+            "projectName": "Programming_73c46f83"
+        },
+        {
+            "type": "java",
             "name": "Demo",
             "request": "launch",
             "mainClass": "Demo",
